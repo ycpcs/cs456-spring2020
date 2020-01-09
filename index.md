@@ -3,9 +3,9 @@ layout: default
 title: Home page
 ---
 
-# Welcome to CS 456, Fall 2019!
+# Welcome to CS 456, Spring 2020!
 
-This is the website for CS 456, Fall 2019 at York College.
+This is the website for CS 456, Spring 2020 at York College.
 All information about the course will be posted here.
 
 ## Links

@@ -17,6 +17,10 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Jan 23  | Introduction        | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
 > Jan 28  | Profession          | *Computing Is a Profession*, Andrew A. Chien (ACM - 10/17) <br /> *ACM Code of Ethics: A Guide for Positive Action*, Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, Marty J. Wolf (ACM - 1/18) <br /> [The Pledge of The Computing Professional](http://pledge-of-the-computing-professional.org/home-page/the-oath) |
 > Jan 30  | Responsibility      | *Toward Algorithmic Transparency and Accountability*, Simson Garfinkel, Jeanna Matthews, Stuart S. Shapiro, Jonathan M. Smith (ACM - 9/17) <br /> *Assuring Software Quality By Preventing Neglect*, Robin K. Hill (ACM - 9/17) <br /> *Tony's Law*, Dror G. Feitelson (ACM - 2/19) <br /> *Should AI Technology Be Regulated? Yes, and Here's How*, Oren Etzioni (ACM - 12/18) |
+> Feb 4   | IP - Copyrights     | *Who Owns the Social Web?*, Catherine C. Marshall, Frank M. Shipman (ACM - 5/17) <br /> *The EU’s Controversial Digital Single Market Directive*, Pamela Samuelson (ACM - 11/18) <br /> *Questioning a New Intellectual Property Right for Press Publishers*, Pamela Samuelson (ACM - 3/19) |
+> Feb 6   | IP - Patents        | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Disgorging Profits in Design Patent Cases*, Pamela Samuelson (ACM - 11/17) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
+> Feb 11  | **EXAM I PART I Discussion**   |  | 
+> Feb 13  | **EXAM I PART I Writeup**      |  | 
 
 
 <!--

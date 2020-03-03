@@ -19,6 +19,8 @@ All information about the course will be posted here.
 * **Jan 23** - Welcome back!
 * **Feb 11** - Exam 1 Part 1 Discussion
 * **Feb 13 - Exam 1 Part 1 Due** upload a .pdf to [Marmoset](https://cs.ycp.edu/marmoset/login) by 11:59pm
+* **Mar 19** - Exam 1 Part 2 Discussion
+* **Mar 24 - Exam 1 Part 2 Due** upload a .pdf to [Marmoset](https://cs.ycp.edu/marmoset/login) by 11:59pm
 
 <!--
 * **Sept 12** - Exam 1 Part 1 Discussion

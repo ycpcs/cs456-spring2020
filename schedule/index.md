@@ -28,8 +28,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 10  | Internet Free Speech | *Continuity and Change in Internet Law*, James Grimmelmann (ACM - 5/19) <br /> *A Response to Fake News as a Response to Citizens United*, Marshall W. Van Alstyne (ACM - 8/19) |
 > Mar 12  | Individual Impact    | *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Potential ‘Dark Sides’ of Leisure Technology Use in Youth*, Ofir Turel (ACM - 3/19)|
 > Mar 17  | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
-> Mar 19  | **EXAM II Discussion** | |
-> Mar 24  | **EXAM II Writeup Period**    | |
+> Mar 19  | **EXAM I PART 2 Discussion** | |
+> Mar 24  | **EXAM I PART 2 Writeup Period**    | |
 
 
 <!--

@@ -30,6 +30,18 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 17  | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
 > Mar 19  | **EXAM I PART 2 Discussion** | |
 > Mar 24  | **EXAM I PART 2 Writeup Period**    | |
+> Mar 26  | | |
+> Mar 31  | | |
+> Apr 2   | | |
+> Apr 7   | | |
+> Apr 14  | | |
+> Apr 16  | | |
+> Apr 21  | | |
+> Apr 23  | | |
+> Apr 28  | | |
+> Apr 30  | | |
+> May 5   | | |
+> May 7   | **EXAM II Discussion** | |
 
 
 <!--

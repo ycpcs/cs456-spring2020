@@ -30,17 +30,17 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 17  | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
 > Mar 19  | **EXAM I PART 2 Discussion** | |
 > Mar 24  | **EXAM I PART 2 Writeup Period**    | |
-> Mar 26  | | |
-> Mar 31  | | |
-> Apr 2   | | |
-> Apr 7   | | |
-> Apr 14  | | |
-> Apr 16  | | |
-> Apr 21  | | |
-> Apr 23  | | |
-> Apr 28  | | |
-> Apr 30  | | |
-> May 5   | | |
+> Mar 26  | Chase Teichmann <br /> *Software Development Models*| |
+> Mar 31  | Kyle Eidson <br /> Madison Tibbett <br /> *Gaming Industry Abuse*| |
+> Apr 2   | Joel Horne <br /> Ben Sentz <br /> *ISP Throttling and Net Neutrality* | |
+> Apr 7   | Greg Plachno <br /> *Self Driving Cars* | |
+> Apr 14  | Jacob Stambaugh <br /> Phil Norris <br /> *AI and Face Recognition* | |
+> Apr 16  | Alyssa McDevitt <br /> *IoT and Domestic Abuse*| |
+> Apr 21  | Ed Nardo <br /> Joe Landau <br /> *Deepfakes*| |
+> Apr 23  | Trevor Swann <br /> Bryan Soto <br /> *Social Media in Politics, Twitter Censorship*| |
+> Apr 28  | Alyssa Grove <br /> *Privacy/Security in the Cloud*| |
+> Apr 30  | Nate Hays <br /> John Myer <br /> *Microtransactions and Loot Boxes*| |
+> May 5   | AJ Loehr <br /> *Big Data* | |
 > May 7   | **EXAM II Discussion** | |
 
 

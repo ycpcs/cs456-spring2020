@@ -27,20 +27,20 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 27  | Security - II       | *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *Encryption and Surveillance*, Joan Feigenbaum (ACM - 5/19) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17)|  
 > Mar 10  | Internet Free Speech | *Continuity and Change in Internet Law*, James Grimmelmann (ACM - 5/19) <br /> *A Response to Fake News as a Response to Citizens United*, Marshall W. Van Alstyne (ACM - 8/19) |
 > Mar 12  | Individual Impact    | *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Potential ‘Dark Sides’ of Leisure Technology Use in Youth*, Ofir Turel (ACM - 3/19)|
-> Mar 17  | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
-> Mar 19  | **EXAM I PART 2 Discussion** | |
-> Mar 24  | **EXAM I PART 2 Writeup Period**    | |
-> Mar 26  | Chase Teichmann <br /> *Software Development Models*| |
-> Mar 31  | Kyle Eidson <br /> Madison Tibbett <br /> *Gaming Industry Abuse*| |
-> Apr 2   | Joel Horne <br /> Ben Sentz <br /> *ISP Throttling and Net Neutrality* | |
-> Apr 7   | Greg Plachno <br /> *Self Driving Cars* | |
-> Apr 14  | Jacob Stambaugh <br /> Phil Norris <br /> *AI and Face Recognition* | |
-> Apr 16  | Alyssa McDevitt <br /> *IoT and Domestic Abuse*| |
-> Apr 21  | Ed Nardo <br /> Joe Landau <br /> *Deepfakes*| |
-> Apr 23  | Trevor Swann <br /> Bryan Soto <br /> *Social Media in Politics, Twitter Censorship*| |
-> Apr 28  | Alyssa Grove <br /> *Privacy/Security in the Cloud*| |
-> Apr 30  | Nate Hays <br /> John Myer <br /> *Microtransactions and Loot Boxes*| |
-> May 5   | AJ Loehr <br /> *Big Data* | |
+> Mar 17  | **NO CLASS - COVID-19** | |
+> Mar 19  | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
+> Mar 24  | **EXAM I PART 2 Discussion** | |
+> Mar 26  | **EXAM I PART 2 Writeup Period**    | |
+> Mar 31  | Chase Teichmann <br /> *Software Development Models*| |
+> APR 2   | Kyle Eidson <br /> Madison Tibbett <br /> *Gaming Industry Abuse*| |
+> Apr 7   | Joel Horne <br /> Ben Sentz <br /> *ISP Throttling and Net Neutrality* | |
+> Apr 14  | Greg Plachno <br /> *Self Driving Cars* | |
+> Apr 16  | Jacob Stambaugh <br /> Phil Norris <br /> *AI and Face Recognition* | |
+> Apr 21  | Alyssa McDevitt <br /> *IoT and Domestic Abuse*| |
+> Apr 23  | Ed Nardo <br /> Joe Landau <br /> *Deepfakes*| |
+> Apr 28  | Trevor Swann <br /> Bryan Soto <br /> *Social Media in Politics, Twitter Censorship*| |
+> Apr 30  | Alyssa Grove <br /> *Privacy/Security in the Cloud* <br /> AJ Loehr <br /> *Big Data* | |
+> MAY 5   | Nate Hays <br /> John Myer <br /> *Microtransactions and Loot Boxes*| |
 > May 7   | **EXAM II Discussion** | |
 
 

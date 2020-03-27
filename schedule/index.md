@@ -31,8 +31,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 19  | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
 > Mar 24  | **EXAM I PART 2 Discussion** | |
 > Mar 26  | **EXAM I PART 2 Writeup Period**    | |
-> Mar 31  | Chase Teichmann <br /> *Software Development Models*| |
-> APR 2   | Kyle Eidson <br /> Madison Tibbett <br /> *Gaming Industry Abuse*| |
+> Mar 31  | Chase Teichmann <br /> *Software Development Models*| [Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum) <br /> [Kanban vs. Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum) |
+> Apr 2   | Kyle Eidson <br /> Madison Tibbett <br /> *Gaming Industry Abuse*| |
 > Apr 7   | Joel Horne <br /> Ben Sentz <br /> *ISP Throttling and Net Neutrality* | |
 > Apr 14  | Greg Plachno <br /> *Self Driving Cars* | |
 > Apr 16  | Jacob Stambaugh <br /> Phil Norris <br /> *AI and Face Recognition* | |
@@ -40,7 +40,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Apr 23  | Ed Nardo <br /> Joe Landau <br /> *Deepfakes*| |
 > Apr 28  | Trevor Swann <br /> Bryan Soto <br /> *Social Media in Politics, Twitter Censorship*| |
 > Apr 30  | Alyssa Grove <br /> *Privacy/Security in the Cloud* <br /> AJ Loehr <br /> *Big Data* | |
-> MAY 5   | Nate Hays <br /> John Myer <br /> *Microtransactions and Loot Boxes*| |
+> May 5   | Nate Hays <br /> John Myer <br /> *Microtransactions and Loot Boxes*| |
 > May 7   | **EXAM II Discussion** | |
 
 

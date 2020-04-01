@@ -32,7 +32,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 24  | **EXAM I PART 2 Discussion** | |
 > Mar 26  | **EXAM I PART 2 Writeup Period**    | |
 > Mar 31  | Chase Teichmann <br /> *Software Development Models*| [Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum) <br /> [Kanban vs. Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum) |
-> Apr 2   | Kyle Eidson <br /> Madison Tibbett <br /> *Gaming Industry Abuse*| |
+> Apr 2   | Kyle Eidson <br /> Madison Tibbett <br /> *Gaming Industry Abuse*| [Why Game Developers Keep Getting Laid Off](https://kotaku.com/why-game-developers-keep-getting-laid-off-1583192249) <br /> [Making Video Games Is Not a Dream Job](https://www.nytimes.com/2019/04/04/opinion/video-games-layoffs-union.html) <br /> [How BioWare's Anthem Went Wrong](https://kotaku.com/how-biowares-anthem-went-wrong-1833731964)|
 > Apr 7   | Joel Horne <br /> Ben Sentz <br /> *ISP Throttling and Net Neutrality* | |
 > Apr 14  | Greg Plachno <br /> *Self Driving Cars* | |
 > Apr 16  | Jacob Stambaugh <br /> Phil Norris <br /> *AI and Face Recognition* | |

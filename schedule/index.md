@@ -33,7 +33,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 26  | **EXAM I PART 2 Writeup Period**    | |
 > Mar 31  | Chase Teichmann <br /> *Software Development Models*| [Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum) <br /> [Kanban vs. Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum) |
 > Apr 2   | Kyle Eidson <br /> Madison Tibbett <br /> *Gaming Industry Abuse*| [Why Game Developers Keep Getting Laid Off](https://kotaku.com/why-game-developers-keep-getting-laid-off-1583192249) <br /> [Making Video Games Is Not a Dream Job](https://www.nytimes.com/2019/04/04/opinion/video-games-layoffs-union.html) <br /> [How BioWare's Anthem Went Wrong](https://kotaku.com/how-biowares-anthem-went-wrong-1833731964)|
-> Apr 7   | Joel Horne <br /> Ben Sentz <br /> *ISP Throttling and Net Neutrality* | |
+> Apr 7   | Joel Horne <br /> Ben Sentz <br /> *ISP Throttling and Net Neutrality* | [The pros and cons of net neutrality](https://www.itpro.co.uk/strategy/28115/the-pros-and-cons-of-net-neutrality) <br /> [Net Neutrality Repeal: The Internet Apocalypse That Never Came](https://fee.org/articles/net-neutrality-repeal-the-internet-apocalypse-that-never-came/) <br /> [Netflix Agrees To Pay Comcast To End Slowdown](https://consumerist.com/2014/02/23/netflix-agrees-to-pay-comcast-to-end-slowdown/) <br /> *Finding the Middle Ground: A Proposed Solution to the Net Neutrality Debate*, Jay S. Kaplan (George Mason Law - 10/18)|
 > Apr 14  | Greg Plachno <br /> *Self Driving Cars* | |
 > Apr 16  | Jacob Stambaugh <br /> Phil Norris <br /> *AI and Face Recognition* | |
 > Apr 21  | Alyssa McDevitt <br /> *IoT and Domestic Abuse*| |
